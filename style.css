@@ -44,6 +44,10 @@ body{
     align-items: center;
 }
 
+.card{
+    margin-bottom: 20px;
+}
+
 h1{
     width: 300px;
     font-size: 40px;
