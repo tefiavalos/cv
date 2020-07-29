@@ -21,7 +21,18 @@ body{
 
 .container-articles{
     flex-direction: column;
+    justify-content: space-between;
     width: 40%;
+}
+
+.container-articles-right{
+    flex-direction: column;
+    justify-content: space-between;
+    width: 40%;
+}
+
+.container-articles-right .card{
+    height: auto;
 }
 
 .container-img{
@@ -45,7 +56,12 @@ body{
 }
 
 .card{
-    margin-bottom: 20px;
+    margin-bottom: 50px;
+    height: 336px;
+}
+
+.container-articles-right .card{
+    height: 142px;
 }
 
 h1{
