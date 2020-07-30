@@ -32,10 +32,6 @@ body{
     width: 400px;
 }
 
-.container-articles-right .card{
-    height: auto;
-}
-
 .container-img{
     width: 200px;
     height: 200px;
@@ -65,11 +61,13 @@ body{
     height: 142px;
 }
 
+
 h1{
     width: 300px;
     font-size: 40px;
     font-weight: 300;
     text-align: center;
+    margin: 33px;
 }
 
 h2{
