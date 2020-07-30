@@ -97,6 +97,9 @@ img{
 }
 
 @media(max-width: 600px){
+    body{
+        margin: 0;
+    }
     .container-cv{
         width: 95%;
         flex-direction: column-reverse;
