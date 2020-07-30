@@ -95,3 +95,22 @@ img{
         align-items: center;
     }
 }
+
+@media(max-width: 600px){
+    .container-cv{
+        width: 95%;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+    .container-articles{
+        flex-direction: column;
+        justify-content: space-between;
+        width: 300px;
+    }
+    
+    .container-articles-right{
+        flex-direction: column;
+        justify-content: space-between;
+        width: 300px;
+    }
+}
