@@ -95,13 +95,11 @@ img{
     }
     .container-articles{
         flex-direction: column;
-        justify-content: space-between;
         width: 400px;
     }
     
     .container-articles-right{
         flex-direction: column;
-        justify-content: space-between;
         width: 400px;
     }
 }
@@ -114,13 +112,11 @@ img{
     }
     .container-articles{
         flex-direction: column;
-        justify-content: space-between;
         width: 400px;
     }
     
     .container-articles-right{
         flex-direction: column;
-        justify-content: space-between;
         width: 400px;
     }
 }
@@ -136,13 +132,11 @@ img{
     }
     .container-articles{
         flex-direction: column;
-        justify-content: space-between;
         width: 300px;
     }
     
     .container-articles-right{
         flex-direction: column;
-        justify-content: space-between;
         width: 300px;
     }
 }
