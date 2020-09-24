@@ -39,6 +39,18 @@ body{
     overflow: hidden;
 }
 
+.container-links{
+    display: flex;
+    flex-direction: column
+}
+
+a{
+    margin: 10px 5px;
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+}
+
 .section-title{
     display: flex;
     align-items: center;
